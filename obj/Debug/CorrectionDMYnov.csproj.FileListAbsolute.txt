@@ -1,0 +1,7 @@
+C:\Users\Adrien\source\repos\CorrectionDMYnov\CorrectionDMYnov\bin\Debug\CorrectionDMYnov.exe.config
+C:\Users\Adrien\source\repos\CorrectionDMYnov\CorrectionDMYnov\bin\Debug\CorrectionDMYnov.exe
+C:\Users\Adrien\source\repos\CorrectionDMYnov\CorrectionDMYnov\bin\Debug\CorrectionDMYnov.pdb
+C:\Users\Adrien\source\repos\CorrectionDMYnov\CorrectionDMYnov\obj\Debug\CorrectionDMYnov.csprojAssemblyReference.cache
+C:\Users\Adrien\source\repos\CorrectionDMYnov\CorrectionDMYnov\obj\Debug\CorrectionDMYnov.csproj.CoreCompileInputs.cache
+C:\Users\Adrien\source\repos\CorrectionDMYnov\CorrectionDMYnov\obj\Debug\CorrectionDMYnov.exe
+C:\Users\Adrien\source\repos\CorrectionDMYnov\CorrectionDMYnov\obj\Debug\CorrectionDMYnov.pdb
